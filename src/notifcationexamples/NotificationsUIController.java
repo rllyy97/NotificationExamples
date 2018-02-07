@@ -22,7 +22,7 @@ import taskers.*;
 /**
  * FXML Controller class
  *
- * @author dalemusser
+ * @author Riley Evans
  */
 public class NotificationsUIController implements Initializable, Notifiable {
 

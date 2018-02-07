@@ -9,7 +9,7 @@ import javafx.application.Platform;
 
 /**
  *
- * @author dalemusser
+ * @author Riley Evans
  * 
  * This example uses an object passed in with a notify()
  * method that gets called when a notification is to occur.
